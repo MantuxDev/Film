@@ -13,16 +13,10 @@ informazioni:
 adempia alle seguenti richieste:
 
 
-1.   
-stampa dell’incasso medio del film di un
-determinato autore;
+1.   stampa dell’incasso medio del film di un determinato autore;
 
 
-2.   
-stampa dei dati relativi a un determinato
-film il cui titolo è fornito in input;
+2.   stampa dei dati relativi a un determinato film il cui titolo è fornito in input;
 
 
-3.   
-stampa dei dati che riguardano il film
-straniero che ha ottenuto il maggiore incasso. 
+3.   stampa dei dati che riguardano il film straniero che ha ottenuto il maggiore incasso. 
